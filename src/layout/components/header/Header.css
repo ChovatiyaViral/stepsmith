@@ -1,0 +1,10 @@
+.container {max-width: 1170px;}
+
+.navbar {padding: 0px; position: relative; display: block;}
+.navbar:before{content: ''; position: absolute; background: #02ABF0; width: 27%; height: 96px; right: 0px; top: 0px; z-index: -1;}
+.navbar .navbar-brand { padding: 5px 0px 8px;margin: 0px;}
+.navbar .navbar-brand img {height: 83px;}
+.navbar .navbar-nav a {padding: 0px 0px 0px 12px; font-size: 18px; font-weight: 400; color: #000; line-height: 90px; text-decoration: none;}
+.navbar .response {background-color: #02abf0; padding: 27px 9px; margin-left: 18px;}
+.navbar .response h6 {font-size: 18px; color: #fff; font-weight: 700; margin: 0px; text-transform: uppercase; line-height: 1;}
+.navbar .response span {font-size: 15px; font-weight: 400; color: #fff; margin: 0px; line-height: 1;}

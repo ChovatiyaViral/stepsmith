@@ -1,0 +1,9 @@
+.carousel.slide .carousel-indicators{ margin: 0; display: block; bottom: 35%;}
+.carousel.slide .carousel-indicators .active {background-color: #02abf0;}
+.carousel.slide .carousel-indicators li { width: 10px; height: 10px; border-radius: 50%; background-color: #ccc; margin: 0px;}
+.carousel.slide .carousel-inner .carousel-item .carousel-caption {padding: 0px; top: 26%; text-align: left; right: 0px; left: 11%;}
+.carousel.slide .carousel-inner .carousel-item .carousel-caption h5 {font-size: 30px; color: #000; font-weight: 250; line-height: 1; margin: 0px; padding-bottom: 24px;}
+.carousel.slide .carousel-inner .carousel-item .carousel-caption h1 {font-size: 50px; color: #000; font-weight: 700; line-height: 1; margin: 0px;}
+.carousel.slide .carousel-inner .carousel-item .carousel-caption p {font-size: 15px; line-height: 24px; color: #666666; font-weight: 400; margin: 0px; padding: 29px 60px 0px 0px;}
+.carousel.slide .carousel-control-prev,
+.carousel.slide .carousel-control-next {display: none;}

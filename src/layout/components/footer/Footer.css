@@ -1,0 +1,15 @@
+footer.footer-bg{padding-top: 59px;}
+footer.footer-bg h2 {font-size: 36px; font-weight: 900; line-height: 24px; color: #000; margin: 0px; padding-bottom: 35px;}
+footer.footer-bg ul.footer-menu {list-style-type: none; margin: 0px 0px 17px; padding: 0px;}
+footer.footer-bg ul.footer-menu li{padding-bottom: 20px; font-size: 16px;}
+footer.footer-bg ul.footer-menu li a {text-decoration: none; color: #000;}
+footer.footer-bg ul.footer-menu li a.gmail img {margin-right: 9px;}
+footer.footer-bg ul.footer-menu li a.mobile img {margin: 0px 15px 0px 6px;}
+footer.footer-bg .footer-bottom {border-top: 1px solid #bfbfbf;}
+footer.footer-bg .footer-bottom .footer-bottom-box {display: flex; flex-wrap: wrap; align-items: center;}
+footer.footer-bg .footer-bottom .footer-bottom-box ul.footer-bottom-menu {display: flex; flex-wrap: wrap; align-items: center; margin: 0px 0px 0px 9px; padding: 0px;}
+footer.footer-bg .footer-bottom .footer-bottom-box ul.footer-bottom-menu li {list-style-type: none; padding-right: 37px; }
+footer.footer-bg .footer-bottom .footer-bottom-box ul.footer-bottom-menu li a{ color: #666666; font-size: 16px; font-weight: 700;text-decoration: none;}
+footer.footer-bg .footer-bottom .footer-bottom-box ul.footer-bottom-menu li a:hover{ color: #02abf0;}
+footer.footer-bg .footer-bottom .footer-bottom-box p{font-size: 14px; margin: 0px 0px 0px auto; line-height: 1; color: #666666;}
+footer.footer-bg .footer-bottom .footer-bottom-box p span{color: #02abf0;}
